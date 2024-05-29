@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\bin\Debug\SolvingQuadraticEquations.exe.config
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\bin\Debug\SolvingQuadraticEquations.exe
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\bin\Debug\SolvingQuadraticEquations.pdb
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\obj\Debug\SolvingQuadraticEquations.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\obj\Debug\SolvingQuadraticEquations.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\obj\Debug\SolvingQuadraticEquations.exe
+C:\Users\USER\Desktop\Projects\SolvingQuadraticEquations\SolvingQuadraticEquations\SolvingQuadraticEquations\obj\Debug\SolvingQuadraticEquations.pdb
